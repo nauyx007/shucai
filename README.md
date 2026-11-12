@@ -24,5 +24,5 @@
 
 ## 交流群
 
-- [TG](https://t.me/+EG_qE2UbAKA2ZThl)
-- QQ群：1045431931
+- [TG](https://t.me/+RUQ13zYKdwM4MDE9)
+- QQ群：225364948
