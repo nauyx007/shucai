@@ -2,16 +2,7 @@
 一款面向彩票爱好者的历史数据统计、走势复盘工具。
 
 ### 界面预览
-<p align="center">
-  <img src="./images/1.png" width="33%">
-  <img src="./images/2.png" width="33%">
-  <img src="./images/3.png" width="33%">
-</p>
-<p align="center">
-  <img src="./images/4.png" width="33%">
-  <img src="./images/5.png" width="33%">
-  <img src="./images/6.png" width="33%">
-</p>
+![首页](./images/1.png)
 
 ## 功能介绍
 - 多彩种历史开奖数据汇总
